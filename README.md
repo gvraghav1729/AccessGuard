@@ -152,8 +152,8 @@ remediation data may be created or updated when the application runs.
 Replace the placeholders with your GitHub username and repository name:
 
 ``` bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/gvraghav1729/AccessGuard.git
+cd <AccessGuard>
 ```
 
 Alternatively, download the repository ZIP and extract it.
