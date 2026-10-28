@@ -1,0 +1,11 @@
+employee_id,employee_name,department,employment_status,account_status,role,last_login,permissions
+E001,Aarav Shah,Finance,Active,Active,Analyst,2026-10-20,view_reports
+E002,Meera Patel,IT,Active,Active,Admin,2026-10-25,manage_users
+E003,Rohan Mehta,Finance,Terminated,Active,Analyst,2026-10-10,view_reports
+E004,Isha Desai,Finance,Active,Active,Finance_User,2026-10-22,create_vendor;approve_payment
+E005,Kabir Joshi,Operations,Active,Active,Operator,2026-06-01,view_reports
+E006,Anaya Rao,HR,Active,Disabled,HR_User,2026-09-12,view_employee_records
+E007,Vivaan Shah,IT,Active,Active,Developer,2026-10-24,deploy_code
+E008,Diya Nair,Finance,Terminated,Disabled,Finance_User,2026-08-01,view_reports
+E009,Arjun Verma,Operations,Active,Active,Admin,2026-10-18,manage_users
+E010,Sara Khan,Finance,Active,Active,Finance_User,2026-10-26,create_vendor
